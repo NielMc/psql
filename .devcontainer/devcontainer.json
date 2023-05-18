@@ -9,7 +9,6 @@
       "extensions": [
         "ms-python.python",
         "formulahendry.auto-close-tag",
-        "eventyret.bootstrap-4-cdn-snippet",
         "esbenp.prettier-vscode",
         "matt-rudge.auto-open-preview-panel",
         "ms-toolsai.jupyter",
